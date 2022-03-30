@@ -1,0 +1,379 @@
+{
+  "language": "Language",
+  "en": "English",
+  "zh": "Simplified Chinese (简体中文)",
+  "ja": "Japanese (日本語)",
+  "ee": "Estonian (Eesti)",
+
+
+  "title": "Lets start using ZeroTouch",
+  "subTitle": "For your onboarding process, please provide us information below.",
+  "nextButton": "Next",
+  "previousButton": "Previous",
+  "closeButton": "Close",
+  "submitButton": "Submit",
+
+
+  "invitationCode": "Invitation Code",
+
+
+  "aboutOrganization": "About your organization (e.g. company)",
+  "organizationName": "Organization Name",
+  "postalCode": "Postal Code",
+  "address": "Address",
+  "phoneNumber": "Phone Number",
+
+
+  "emailFragmentTitle": "Do you have an email address?",
+  "emailFragmentRadio1": "Yes, I have an email address assigned to me individually by my organization.",
+  "emailFragmentLabel1": "Your dedicated email address assigned by the organization",
+  "emailFragmentRadio2": "Yes, I have an email address that I share with my organization or team.",
+  "emailFragmentLabel2": "Your organization / team’s email address",
+  "emailFragmentRadio3": "No, this organization does not have an email address.",
+
+
+
+  "yourInformation": "Fill your information",
+  "yourInformationSubtitle": "Please enter your information as the first user. Other users can be added later.",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "displayName": "Display name",
+  "registerEmail": "Email",
+  "secondaryEmail": "Secondary (backup) Email (use only for security purpose)",
+
+
+  "confirmationFragmentTitle": "Check the details of your application.",
+  "organizationInformation": "Organization Information",
+  "email": "Email",
+  "domain": "Domain",
+  "action": "Action",
+  "newDomain": "New domain",
+  "oldDomain": "Domain",
+  "getNewDomain": "Get new domain for the organization",
+  "useOldDomain": "Use existing domain for the organization",
+  "yourInformationConfirmation": "Your Information",
+  "nameConfirmation": "First/Last name",
+  "secondaryEmailConfirmation": "Secondary email",
+  "deviceRequests": "Device Requests",
+  "items": "Items",
+  "deliverTo": "Deliver to",
+
+
+  "finishStatus": "Successfully Applied ZeroTouch!",
+  "finishSubtitle": "Please allow 2-5 business days for our staff to process your application.",
+
+
+  "name": "Name",
+  "Organization": "Organization",
+  "organization": "organization",
+  "manager": "Manager",
+  "created": "Created at",
+  "status": "Status",
+  "links": "Links",
+  "device": "Device",
+  "product": "Product",
+  "users": "Users",
+  "operations": "Operations",
+
+
+  "newOrganization": "New Organization",
+  "organizationProfiles": "Organization Profiles",
+  "managerProfiles": "Manager Profiles",
+  "organizationNewPageSubmit": "Submit",
+
+
+  "requester": "Requester",
+  "requests": "Requests",
+  "newRequest": "New Request",
+  "requestDetail": "Details",
+
+
+  "filteringBoxCategory": "Category",
+  "search": "Search",
+  "question": "Question",
+  "userAccount": "User Account",
+  "cloudService": "Cloud Service",
+  "network": "Network",
+  "billing": "Billing",
+  "others": "Others",
+  "all": "All",
+  "needYourAction": "Need your action",
+  "workInProgress": "Work in progress",
+  "closed": "Closed",
+
+
+  "newRequests": "New Requests",
+  "deviceOrder": "Device Order",
+  "deviceOrderDescription": "You can inquire about the older and delivery status of computers and perioherals.",
+  "deviceFix": "Device fix and replacement",
+  "deviceFixDescription": "There is a problem with the device such as malfunction or poor performance.",
+  "questionsAboutDevices": "Questions about devices",
+  "questionsAboutDevicesDescription": "General questions about device.",
+  "googleWorkspace": "Google Workspace",
+  "googleWorkspaceDescription": "For questions or requests about Google Workspace such as Google Drive, Gmail, Google Login, etc.",
+  "slack": "Slack",
+  "slackDescription": "For questions or requests about Slack.",
+  "zoom": "Zoom",
+  "zoomDescription": "For questions or requests about Zoom.",
+  "salesForce": "Salesforce",
+  "salesForceDescription": "For questions or requests about Salesforce. (This service provided by AAA Corp)",
+  "networkIssues": "NetWork / Wi-Fi issues",
+  "networkIssuesDescription": "If you have trouble connecting to the Internet, or if you want to install new newtwork equipment",
+  "newRequestBillingDesc": "You can contact us for billing procedures, questions, and campaign inquiries.",
+  "solutions": "Solutions",
+  "solutionsDescription": "Consult services and solutions to solve your problems.",
+  "othersDescription": "If you have any questions or requests that cannot be categorized above, please click here.",
+
+
+  "devices": "Devices",
+  "newDevice": "New Device",
+  "provider": "Provider",
+  "assignTo": "Assign to",
+  "actions": "Actions",
+  "deviceDetails": "Details",
+  "requestDevice": "Request",
+  "EOLdate": "EOL date",
+  "productName": "product name",
+  "shippingOrderID": "shipping order ID",
+
+
+  "newUser": "New User",
+  "userProfiles": "User Profiles",
+  "save": "Save",
+
+
+  "zeroTouchWorkPlace": "Zero Touch Digital Workplace Manager",
+  "signInWithGoogle": "Sign in with Google account given by oganizations",
+  "doYouHaveAnAccount": "If you do not have an account, please contact your organization's administrator.",
+  "doYouWantToUse": "Would you like to start ZeroTouch in your organization?",
+  "HaveInvitationCode": "I have an invitation code",
+  "AskSalesManager": "Ask to sales manager",
+
+
+  "orders": "Orders",
+  "orderId": "Order ID",
+  "orderType": "Order Type",
+  "newOrder": "New Order",
+
+
+  "BorrowAComputer": "Borrow a computer",
+  "AddPeripherals": "Add peripherals",
+  "DeviceFixAndReplacement": "Device fix and replacement",
+  "ReturnComputer/Peripherals": "Return computer / peripherals",
+  "Select": "Select",
+  "AddToSupportDesk": "Add to support desk",
+
+
+  "Who will use these devices?": "Who will use these devices?",
+  "enter email address or name in here ...": "enter email address or name in here ...",
+  "What devices do you need?": "What devices do you need?",
+  "Place Order": "Place Order",
+
+
+  "Peripherals": "Peripherals",
+  "Computer": "Computer",
+  "It is a laptop computer with a small screen of around 12 inches. It is convenient to carry around": "It is a laptop computer with a small screen of around 12 inches. It is convenient to carry around",
+  "Optical mouse": "Optical mouse",
+  "Numpad": "Numpad",
+  "Webcam": "Webcam",
+
+
+  "Deliver to the office": "Deliver to the office",
+  "Another destination": "Another destination",
+  "Organization Name (Optional)": "Organization Name (Optional)",
+
+
+  "Postal code does not match the pattern 000-0000": "Postal code does not match the pattern 000-0000",
+  "Postal code cannot contain letters": "Postal code cannot contain letters",
+  "Phone number must be at least 10 numbers long": "Phone number must be at least 10 numbers long",
+  "Phone number cannot contain letters": "Phone number cannot contain letters",
+
+  "Welcome to ZeroTouch! You have a pending invitation. Please continue and fill in the required information.": "Welcome to ZeroTouch! You have a pending invitation. Please continue and fill in the required information.",
+  "continue": "Continue",
+  "home": "Home",
+  "settings": "Settings",
+  "Goodle Workspaces": "Goodle Workspaces",
+  "Import users from Google Directory": "Import users from Google Directory",
+
+
+
+  "edit": "Edit",
+  "sureToDelete": "Are you sure to delete the user",
+  "yes": "Yes",
+  "no": "No",
+  "delete": "Delete",
+
+
+  "editUser": "Edit User",
+  "details": "Details",
+  "update": "Update",
+  "editUserInfo": "Edit User Information",
+
+
+  "cancelOrder": "Cancel Order",
+  "serialNumber": "Serial Number",
+  "Contents in this order": "Contents in this order",
+  "Order Information": "Order Information",
+  "operation type": "operation type",
+  "borrow": "borrow",
+  "user": "user",
+  "organizationn": "organization",
+  "Shipping Information": "Shipping Information",
+  "postal code": "postal code",
+  "addresss": "address",
+  "phone number": "phone number",
+  "company name": "company name",
+  "shipping method": "shipping method",
+  "tracking number": "tracking number",
+
+
+  "organizations": "Organizations",
+  "Sorry, something went wrong.": "Sorry, something went wrong.",
+  "Organization succesfully deleted": "Organization succesfully deleted",
+  "Organization Information": "Organization Information",
+  "Organization Profile": "Organization Profile",
+  "Organization succesfully added!": "Organization succesfully added!",
+  "Organization succesfully updated!": "Organization succesfully updated!",
+
+
+  "User succesfully deleted": "User succesfully deleted",
+  "Something went wrong!": "Something went wrong!",
+
+
+  "User Information": "User Information",
+  "namee": "name",
+  "emaill": "email",
+  "Send an invitation to borrow the device": "Send an invitation to borrow the device",
+  "To allow this employee to get the device of their choice, send an invitation emailfrom here.": "To allow this employee to get the device of their choice, send an invitation emailfrom here.",
+  "Send an invitation mail": "Send an invitation mail",
+
+
+  "Dispatch": "Dispatch",
+  "Assigning items to be shipped": "Assigning items to be shipped",
+  "Laptop (compact)": "Laptop (compact)",
+  "Reset": "Reset",
+  "device id": "device id",
+  "model": "model",
+  "serial number": "serial number",
+  "statuss": "status",
+  "Ready for shipping": "Ready for shipping",
+  "Search for available devices from inventory": "Search for available devices from inventory",
+  "ID or Serial number": "ID or Serial number",
+  "Delivery Provider": "Delivery Provider",
+  "Japan Post": "Japan Post",
+  "Tracking Number": "Tracking Number",
+
+
+  "Products": "Products",
+  "New Product": "New Product",
+  "Product Name": "Product Name",
+  "Category": "Category",
+  "Laptop (Compact)": "Laptop (Compact)",
+  "Product Image": "Product Image",
+  "Total": "Total",
+  "Available": "Available",
+  "Links": "Links",
+  "General Information": "General Information",
+  "product name": "product name",
+  "category": "category",
+
+
+  "I want to get new device from ZeroTouch": "I want to get new device from ZeroTouch",
+  "No need": "No need",
+  "I want to get new domain": "I want to get new domain",
+  "New domain name": "New domain name",
+  "Domain name is required": "Domain name is required",
+  "Domain name is not valid": "Domain name is not valid",
+  "Domain must be between 1 and 64 characters": "Domain must be between 1 and 64 characters",
+  "your-company": "your-company",
+  "I want to use existing domain": "I want to use existing domain",
+  "Your organization’s domain": "Your organization’s domain",
+  "Postal code does not match pattern 000-0000": "Postal code does not match pattern 000-0000",
+  "We will provide you with the equipment as you need.": "We will provide you with the equipment as you need.",
+  "Domain name (@example.co.jp) to use for work.": "Domain name (@example.co.jp) to use for work.",
+  "Delivering pre-configured equipment. We can deliver not only to your office but also to your home.": "Delivering pre-configured equipment. We can deliver not only to your office but also to your home.",
+  "Shipping preferences": "Shipping preferences",
+
+
+  "Upload": "Upload",
+  "Numeric Pad": "Numeric Pad",
+  "Headset": "Headset",
+
+
+  "New Service": "New Service",
+  "URL": "URL",
+  "Services": "Services",
+  "Launch": "Launch",
+
+
+  "Image must smaller than 2MB!": "Image must smaller than 2MB!",
+  "You can only upload JPG/PNG file!": "You can only upload JPG/PNG file!",
+  "Service Name": "Service Name",
+  "Service Name is required": "Service Name is required",
+  "URL is required": "URL is required",
+  "Icon Image": "Icon Image",
+  "Icon Image is required": "Icon Image is required",
+  "Save": "Save",
+
+  "New Application": "New Application",
+  "Applications": "Applications",
+  "Are you sure to delete this applications?": "Are you sure to delete this applications?",
+  "Device fix and replacement": "Device fix and replacement",
+  "Return computer": "Return computer",
+  "Device Usage": "Device Usage",
+  "Need Services": "Need Services",
+  "Device Information": "Device Information",
+  "Product is required": "Product is required",
+  "Serial number is required": "Serial number is required",
+  "Assignment": "Assignment",
+
+
+  "Product succesfully updated!": "Product succesfully updated!",
+  "Name is required": "Name is required",
+  "Product image is required": "Product image is required",
+  "See all the applictions": "See all the applictions",
+  "See all the computers": "See all the computers",
+  "See all the peripherals": "See all the peripherals",
+
+
+  "Choose the appropriate template for John": "Choose the appropriate template for John",
+  "Which computer do you need?": "Which computer do you need?",
+  "Configuration options for the computer": "Configuration options for the computer",
+  "This computer managed and configurated by ZeroTouch.": "This computer managed and configurated by ZeroTouch.",
+  "User Authentication (using Azure Active Directory)": "User Authentication (using Azure Active Directory)",
+  "Install anti-malware solutions": "Install anti-malware solutions",
+  "Mobile device management": "Mobile device management",
+  "Do you need any peripherals?": "Do you need any peripherals?",
+  "Choose the apps you want to use for work.": "Choose the apps you want to use for work.",
+  "Onboarding": "Onboarding",
+  "User Details": "User Details",
+  "User Name": "User Name",
+  "Start Onboarding": "Start Onboarding",
+  "About this product": "About this product",
+  "OS": "OS",
+  "CPU": "CPU",
+  "RAM": "RAM",
+  "Storage": "Storage",
+  "Graphics": "Graphics",
+  "Display": "Display",
+  "Keyboard": "Keyboard",
+  "Mandatory": "Mandatory",
+
+
+  "User name": "User name",
+  "Software Developers": "Software Developers",
+  "template": "template",
+
+
+  "Active": "Active",
+  "Offboarding": "Offboarding",
+  "Show all users": "Show all users",
+  "draft": "draft",
+  "pending": "pending",
+  "provisioning": "provisioning",
+  "shipping": "shipping",
+  "Show all devices": "Show all devices",
+  "Provisioning Tasks": "Provisioning Tasks",
+  "Task manager": "Task manager"
+
+}

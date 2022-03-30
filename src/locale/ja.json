@@ -1,0 +1,16 @@
+{
+    "name": "名前",
+    "language": "言語",
+    "en": "英語 (English)",
+    "zh": "中国語-簡体字 (简体中文)",
+    "ja": "日本語",
+    "ee": "エストニア語 (Eesti)",
+
+
+    "zeroTouchWorkPlace": "Zero Touch デジタルワークプレースマネージャー",
+    "signInWithGoogle": "付与されたGoogleアカウントでサインイン",
+    "doYouHaveAnAccount": "アカウントがない場合はあなたの管理者に連絡してください",
+    "doYouWantToUse": "ZeroTouchを使用するには下記から進んでください",
+    "HaveInvitationCode": "招待コードをお持ちの方",
+    "AskSalesManager": "営業マネージャーに連絡"
+}
